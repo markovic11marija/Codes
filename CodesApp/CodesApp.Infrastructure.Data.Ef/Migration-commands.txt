@@ -1,0 +1,3 @@
+﻿EntityFrameworkCore\Add-Migration -Project CodesApp.Infrastructure.Data.Ef -StartUpProject CodesApp.Api -Context CodesContext -o Migrations -Name Init
+
+EntityFrameworkCore\Update-Database -Project CodesApp.Infrastructure.Data.Ef -StartUpProject CodesApp.Api -Context CodesContext

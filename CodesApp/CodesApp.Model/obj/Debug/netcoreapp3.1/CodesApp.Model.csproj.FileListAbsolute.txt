@@ -1,0 +1,9 @@
+D:\CodesApp\CodesApp\CodesApp.Model\bin\Debug\netcoreapp3.1\CodesApp.Model.deps.json
+D:\CodesApp\CodesApp\CodesApp.Model\bin\Debug\netcoreapp3.1\CodesApp.Model.dll
+D:\CodesApp\CodesApp\CodesApp.Model\bin\Debug\netcoreapp3.1\CodesApp.Model.pdb
+D:\CodesApp\CodesApp\CodesApp.Model\obj\Debug\netcoreapp3.1\CodesApp.Model.csprojAssemblyReference.cache
+D:\CodesApp\CodesApp\CodesApp.Model\obj\Debug\netcoreapp3.1\CodesApp.Model.csproj.CoreCompileInputs.cache
+D:\CodesApp\CodesApp\CodesApp.Model\obj\Debug\netcoreapp3.1\CodesApp.Model.AssemblyInfoInputs.cache
+D:\CodesApp\CodesApp\CodesApp.Model\obj\Debug\netcoreapp3.1\CodesApp.Model.AssemblyInfo.cs
+D:\CodesApp\CodesApp\CodesApp.Model\obj\Debug\netcoreapp3.1\CodesApp.Model.dll
+D:\CodesApp\CodesApp\CodesApp.Model\obj\Debug\netcoreapp3.1\CodesApp.Model.pdb

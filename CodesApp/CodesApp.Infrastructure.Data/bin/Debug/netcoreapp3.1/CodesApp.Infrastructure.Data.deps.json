@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodesApp.Infrastructure.Data/1.0.0": {
+        "dependencies": {
+          "CodesApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "CodesApp.Infrastructure.Data.dll": {}
+        }
+      },
+      "CodesApp.Model/1.0.0": {
+        "runtime": {
+          "CodesApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodesApp.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodesApp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

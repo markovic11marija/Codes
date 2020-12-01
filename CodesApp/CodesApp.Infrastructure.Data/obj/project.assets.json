@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodesApp.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CodesApp.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodesApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodesApp.Model/1.0.0": {
+      "type": "project",
+      "path": "../CodesApp.Model/CodesApp.Model.csproj",
+      "msbuildProject": "../CodesApp.Model/CodesApp.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CodesApp.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marija.markovic\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CodesApp\\CodesApp\\CodesApp.Infrastructure.Data\\CodesApp.Infrastructure.Data.csproj",
+      "projectName": "CodesApp.Infrastructure.Data",
+      "projectPath": "D:\\CodesApp\\CodesApp\\CodesApp.Infrastructure.Data\\CodesApp.Infrastructure.Data.csproj",
+      "packagesPath": "C:\\Users\\marija.markovic\\.nuget\\packages\\",
+      "outputPath": "D:\\CodesApp\\CodesApp\\CodesApp.Infrastructure.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\marija.markovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\CodesApp\\CodesApp\\CodesApp.Model\\CodesApp.Model.csproj": {
+              "projectPath": "D:\\CodesApp\\CodesApp\\CodesApp.Model\\CodesApp.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

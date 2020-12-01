@@ -1,0 +1,17 @@
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.deps.json
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.runtimeconfig.json
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.runtimeconfig.dev.json
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.pdb
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Model.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.pdb
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\bin\Debug\netcoreapp3.1\CodesApp.Model.pdb
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.csprojAssemblyReference.cache
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.csproj.CoreCompileInputs.cache
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.AssemblyInfoInputs.cache
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.AssemblyInfo.cs
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.csproj.CopyComplete
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.pdb
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data.Ef\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.Ef.genruntimeconfig.cache

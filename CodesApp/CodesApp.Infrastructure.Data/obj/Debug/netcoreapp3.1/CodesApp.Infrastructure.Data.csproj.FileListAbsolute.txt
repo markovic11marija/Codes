@@ -1,0 +1,12 @@
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.deps.json
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.pdb
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\CodesApp.Model.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\bin\Debug\netcoreapp3.1\CodesApp.Model.pdb
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.csprojAssemblyReference.cache
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.AssemblyInfo.cs
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.csproj.CopyComplete
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.dll
+D:\CodesApp\CodesApp\CodesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\CodesApp.Infrastructure.Data.pdb
