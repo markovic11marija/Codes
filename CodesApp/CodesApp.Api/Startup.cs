@@ -5,7 +5,6 @@ using CodesApp.Service;
 using CodesApp.Service.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -28,9 +27,16 @@ namespace CodesApp.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CodesApp.Api", Version = "v1" });
+            });
+
             services.AddControllers();
 
-            services.AddDbContext<CodesContext>(b => b.UseSqlServer(Configuration.GetConnectionString("CodesContext")));
+            services.AddDbContext<CodesContext>(b => b.UseSqlServer(Configuration.GetConnectionString("CodesDbContext")));
 
             services.AddScoped(typeof(DbContext), typeof(CodesContext));
             services.AddScoped(typeof(IRepository<>), typeof(EntityFrameworkRepository<>));
@@ -39,10 +45,7 @@ namespace CodesApp.Api
             services.AddTransient<ICodesService, CodesService>();
 
 
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
-            });
+  
 
             services.AddCors();
 
@@ -62,18 +65,17 @@ namespace CodesApp.Api
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "CodesApp.Api");
+                c.RoutePrefix = String.Empty;
             });
 
-            app.UseHttpsRedirection();
+            //   app.UseHttpsRedirection();
 
             app.UseRouting();
 
-            //app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute("Default", "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapControllers();
             });
         }
     }

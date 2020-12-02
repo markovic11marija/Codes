@@ -46,7 +46,7 @@ namespace CodesApp.Api.Controllers
         }
 
 
-        [HttpPost("{codeId}")]
+        [HttpPost("acitate-deactivate/{codeId}")]
         public async Task<ActionResult<int>> ActivateDeactivate(int codeId, bool isActive)
         {
             var result = await _codesService.ActivateDeactivate(codeId, isActive);
